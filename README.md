@@ -15,13 +15,7 @@ In my recent project, I focused on enhancing the analysis of Hindi legal text th
 - **Manual Annotation:**
   - Annotated more than 3000 data lines manually using various tools, including the NER Text Annotator Tool, to ensure precise and accurate training data.
 
-## Dataset Source
 
-The dataset utilized in this project was sourced from the Rajasthan Judicial website. For detailed information about the dataset, refer to the [project repository](https://github.com/Chitransh-Jaiswal/NER-Model/blob/main/README.md).
-
-## Project Details
-
-- **GitHub Repository:** [NER-Model](https://github.com/Chitransh-Jaiswal/NER-Model)
 - **Tools and Technologies:** Python, Transformers, Hugging Face, NER Text Annotator
 - **Completion Date:** August 2023
 
